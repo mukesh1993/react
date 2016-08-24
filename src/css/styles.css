@@ -2,11 +2,20 @@
 {
   background-color: red;
 }
-.col-lg-10
-{
-  background-color: green;
-}
+
 #mum
 {
 list-style: none;
+}
+#muk
+{
+  color: red;
+}
+#da
+{
+  color: green;
+}
+#day
+{
+  color:blue;
 }
