@@ -1,0 +1,27 @@
+
+#mum
+{
+list-style: none;
+}
+#muk
+{
+  color: red;
+}
+#da
+{
+  color: green;
+}
+#day
+{
+  color:blue;
+}
+#Message
+{
+  height: 300px;
+
+}
+body
+{
+  font-family: 'Lobster', cursive;
+
+}
